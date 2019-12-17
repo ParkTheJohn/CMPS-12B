@@ -1,0 +1,8 @@
+animal:dog,elephant,snake
+emotion:angry,depressed,happy,jealous
+color:purple,black,white
+name:john,michael,mark,nick
+character:#name# the #adjective# #animal
+place:home,the school,the bar,the supermarket
+adjective:#color#,#emotion#
+origin:once #character# and #character# went to #place#
